@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estamos aprendiendo **JavaScript**
 
-- 👨‍💻 Los proyectos que hacemos en el canal están disponibles en [https://www.youtube.com/@mattcoder3](https://www.youtube.com/@mattcoder3)
+- 👨‍💻 Los proyectos que hacemos en el canal están disponibles en [https://mattcoder3.github.io/portfolio/](https://mattcoder3.github.io/portfolio/)
 
 - 💬 Podés hacer las preguntas que quieras sobre **HTML, CSS ó Git**
 
