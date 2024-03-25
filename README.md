@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mattcoder3&label=Profile%20views&color=0e75b6&style=flat" alt="mattcoder3" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mattcoder3" alt="mattcoder3" /></a> </p>
-
 - 🌱 Actualmente estamos aprendiendo **JavaScript**
 
 - 👨‍💻 Los proyectos que hacemos en el canal están disponibles en [https://www.youtube.com/@mattcoder3](https://www.youtube.com/@mattcoder3)
